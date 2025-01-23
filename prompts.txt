@@ -1,0 +1,10 @@
+1. Provide a summary of this dataset, including the number of rows, columns, and data types of each column. Highlight any potential issues like missing values or unusual data types from train.csv.
+2. Show the names of columns will null values more than 0.
+3. We have the following missing values in these columns: 'LotFrontage', 'Alley', 'MasVnrType', 'MasVnrArea', 'BsmtQual',
+       'BsmtCond', 'BsmtExposure', 'BsmtFinType1', 'BsmtFinType2',
+       'Electrical', 'FireplaceQu', 'GarageType', 'GarageYrBlt',
+       'GarageFinish', 'GarageQual', 'GarageCond', 'PoolQC', 'Fence',
+       'MiscFeature'. Suggest strategies for handling these missing values, considering the nature of each column.
+4. Show the unique values in df['BsmtQual'].
+5. Given these housing features, suggest potential new features that might be relevant for predicting SalePrice.
+6. Now there are total how many columns?
