@@ -27,11 +27,11 @@ The input CSV file named `train.csv` used for the analysis includes the columns 
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/samar-080301/house_price_EDA
    ```
 2. Navigate to the repository folder:
    ```bash
-   cd <repository_name>
+   cd house_price_EDA
    ```
 3. Install the required dependencies:
    ```bash
