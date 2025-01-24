@@ -1,4 +1,4 @@
-
+1st read `research_guide.doc` and then `next_step.doc`
 # Analysis of House Listing Dataset
 
 This repository contains a Jupyter Notebook that performs statistical analysis on a House Listing Dataset. The analysis includes inference on features like property type, dimensions, age, locality, etc.
